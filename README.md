@@ -145,4 +145,4 @@ Special thanks to the developers and contributors of the Botpress ecosystem.
 
 Nandan Kuchabal
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/Nandanvk137
